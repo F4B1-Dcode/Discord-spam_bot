@@ -3,7 +3,7 @@ import asyncio
 
 # at DC Token you put your discord bot token
 TOKEN = "Dc Token"
-# at [Channelid] you do your channel ids
+# at [Channelid] deine Cannel IDs
 CHANNELS = [
     [Channelid],
     [Channelid],
